@@ -1,2 +1,2 @@
 # CTracker
-Music Tracker in C Language
+Music Tracker in C Language (IN TTY ONLY)
